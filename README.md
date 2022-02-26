@@ -1,6 +1,6 @@
-# BitTube dark theme
+# FSNTube dark theme
 
-    Dark theme for BitTube instances in PeerTube. 
+    Dark theme for FSNTube instances in PeerTube. 
 
    # How to install in your PeerTube instance
 
@@ -13,9 +13,3 @@
     - In the searchbox below, you can type the name of the Theme to easy find it.
     - Choose your Theme and click Install (cloud icon).
     - Before see the changes, you will need to hard reload your browser.
-
-   # Example Screenshots
-
-   ![alt text](https://raw.githubusercontent.com/ipbc-dev/peertube-theme-bittube-dark-mode/master/public/images/screenshot1.png)
-
-   ![alt text](https://raw.githubusercontent.com/ipbc-dev/peertube-theme-bittube-dark-mode/master/public/images/screenshot2.png)
