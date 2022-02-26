@@ -1,5 +1,5 @@
 body {
-  --mainColor: #00abff;
+  --mainColor: #ffff00;
   --mainBackgroundColor: #121212;
   --mainForegroundColor: rgba(195,195,195,0.878431);
   --submenuColor: #272727;
@@ -11,7 +11,7 @@ body {
   --menuForegroundColor: rgba(195,195,195,0.878431);
   --menuBackgroundColor: #272727;
   --whiteColor: #ffffff;
-  --mainHoverColor: #0481bf;
+  --mainHoverColor: #d9d900;
   --actionButtonColor: #ffffff;
   --dangerBackgroundColor: #d9534f;
   /*font-family: "Open Sans",sans-serif;*/
