@@ -10,7 +10,7 @@
     "theme"
   ],
   "homepage": "https://github.com/ipbc-dev/peertube-theme-fsntube-dark-mode",
-  "author": "FSNTube",
+  "author": "BitTube",
   "bugs": "https://github.com/ipbc-dev/peertube-theme-fsntube-dark-mode/issues",
   "staticDirs": {
     "images": "public/images"
