@@ -9,9 +9,9 @@
     "peertube",
     "theme"
   ],
-  "homepage": "https://github.com/anon97945/peertube-theme-fsntube-dark-mode",
+  "homepage": "https://github.com/ipbc-dev/peertube-theme-fsntube-dark-mode",
   "author": "FSNTube",
-  "bugs": "https://github.com/anon97945/peertube-theme-fsntube-dark-mode/issues",
+  "bugs": "https://github.com/ipbc-dev/peertube-theme-fsntube-dark-mode/issues",
   "staticDirs": {
     "images": "public/images"
   },

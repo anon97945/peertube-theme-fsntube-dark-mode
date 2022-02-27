@@ -1,6 +1,6 @@
 # FSNTube dark theme
 
-    Dark theme for FSNTube instances in PeerTube based on the BitTube dark theme. 
+    Dark theme for FSNTube instances in PeerTube. 
 
    # How to install in your PeerTube instance
 
