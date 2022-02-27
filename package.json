@@ -1,7 +1,7 @@
 {
   "name": "peertube-theme-fsntube-dark-mode",
-  "version": "3.0.0",
-  "description": "FSNTube dark theme",
+  "version": "3.0.2",
+  "description": "FSNTube dark theme based on the BitTube dark theme",
   "engine": {
     "peertube": ">=1.3.0"
   },
